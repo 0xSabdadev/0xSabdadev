@@ -5,7 +5,7 @@
 
 ### Hola, I'm Jason! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sabdadev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sabdadev&show_icons=true&theme=radical">
 
 - 🔭 I'm a computer science student at Diponegoro University
 - 🌱 I’m currently learning everything 🤣
