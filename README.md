@@ -14,7 +14,7 @@
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links takes you to repositories/ -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
