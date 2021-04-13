@@ -12,6 +12,9 @@
 - 💕 Interested in : Web Programming, Data Science, and Machine Learning
 - ⚡ Fun fact: I prefer the ratio of milk is more than espresso ☕
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=sabdadev&rank=SECRET,S,AAA,A&theme=monokai">
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories/ -->
@@ -25,3 +28,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
