@@ -15,7 +15,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=sabdadev&rank=SECRET,S,AAA,A&theme=monokai">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabdadev&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabdadev&theme=github_dark)
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabdadev&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
