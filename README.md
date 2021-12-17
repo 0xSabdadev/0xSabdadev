@@ -24,7 +24,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories/ -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+<!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 ![Java](https://img.shields.io/badge/-Java-eb1d1d?style=for-the-badge&labelColor=black&logo=java&logoColor=eb1d1d)
 ![C++](https://img.shields.io/badge/-c++-134de2?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=134de2)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
