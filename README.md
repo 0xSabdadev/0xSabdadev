@@ -20,18 +20,18 @@
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabdadev&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
-#### Top Technologies
+<!-- #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories/ -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-eb1d1d?style=for-the-badge&labelColor=black&logo=java&logoColor=eb1d1d)
+![C++](https://img.shields.io/badge/-c++-134de2?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=134de2)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 
 
