@@ -12,7 +12,7 @@
 - 💕 Interested in : Web Programming, Data Science, and Machine Learning
 - ⚡ Fun fact: I prefer the ratio of milk is more than espresso ☕
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sabdadev&show_icons=true&theme=highcontrast">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=0xSabdadev&show_icons=true&theme=highcontrast">
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=sabdadev&rank=SECRET,S,AAA,A&theme=monokai"> -->
 
