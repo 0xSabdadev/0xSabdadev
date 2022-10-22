@@ -24,7 +24,7 @@ I'm an **Undergraduate Student🎓 [@Undip](https://www.undip.ac.id)** pursuing 
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making web3 projects with Solidity or Ether.js
 - 💬 Ask me about Backend, Frontend, Web3, and DS
-- 📙 Check out my [Resume](https://www.linkedin.com/in/jasonalhilal/)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1YStdriBIvea3AFPykSolzqj5V8I0RveE/view?usp=sharing)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="30%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
