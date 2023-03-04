@@ -20,7 +20,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: metrics
           committer_message: "Update `${filename}`"
           plugin_achievements: yes
@@ -35,7 +35,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: metrics
           committer_message: "Update `${filename}`"
           plugin_habits: yes
