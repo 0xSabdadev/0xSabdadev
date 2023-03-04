@@ -1,5 +1,4 @@
 name: Metrics
-
 on:
   workflow_dispatch:
   push:
@@ -7,7 +6,6 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-
 jobs:
   stats:
     runs-on: ubuntu-latest
