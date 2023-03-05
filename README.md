@@ -1,8 +1,8 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) 
 
 <div>
-<img src="https://github.com/0xSabdadev/0xSabdadev/blob/main/github-metrics.svg" >
-<img width="490" height="270" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align=right>
+<img width="50%" src="https://github.com/0xSabdadev/0xSabdadev/blob/main/github-metrics.svg" alt='metric'>
+<img width="50%" height="270" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt='img-com' align=right>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonalhilal/)](https://www.linkedin.com/in/jasonalhilal)
@@ -23,6 +23,6 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)](https://www.flutter.dev)
 [![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=codeigniter)](https://codeigniter.com/)
 <div align="center">
-  <img src="https://github.com/0xSabdadev/0xSabdadev/blob/output/github-contribution-grid-snake.svg" >
+  <img src="https://github.com/0xSabdadev/0xSabdadev/blob/output/github-contribution-grid-snake.svg" alt='img-py'>
 </div>
 
