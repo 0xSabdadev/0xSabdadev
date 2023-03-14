@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 145mb of code in 12455 edited files across 338 commits</small>
+                <small>estimation from 145mb of code in 12568 edited files across 340 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="627.8164672484438" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="627.8164672484438" y="0" width="257.94177042443476" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="885.7582376728785" y="0" width="27.036506670024465" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="912.7947443429031" y="0" width="5.009723493237156" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="917.8044678361402" y="0" width="2.1532844620373406" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="919.9577522981776" y="0" width="0.042247701822481734" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="639.3324984397985" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="639.3324984397985" y="0" width="248.07378731481893" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="887.4062857546174" y="0" width="25.698310896150016" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="913.1045966507675" y="0" width="4.761762804796505" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="917.866359455564" y="0" width="2.0467057459991977" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="919.9130652015632" y="0" width="0.08693479843682671" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>5.59 MB</div>
-                                <div>68.24%</div>
+                                <div>5.99 MB</div>
+                                <div>69.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,7 +52,7 @@
                             </div>
                             <small>
                                 <div>19.1 kB</div>
-                                <div>0.23%</div>
+                                <div>0.22%</div>
                             </small>
                         </div>
                     </section>
@@ -65,8 +65,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.30 MB</div>
-                                <div>28.04%</div>
+                                <div>2.32 MB</div>
+                                <div>26.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -77,8 +77,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>376 bytes</div>
-                                <div>0%</div>
+                                <div>814 bytes</div>
+                                <div>0.01%</div>
                             </small>
                         </div>
                     </section>
@@ -92,7 +92,7 @@
                             </div>
                             <small>
                                 <div>240 kB</div>
-                                <div>2.94%</div>
+                                <div>2.79%</div>
                             </small>
                         </div>
                     </section>
@@ -106,7 +106,7 @@
                             </div>
                             <small>
                                 <div>44.5 kB</div>
-                                <div>0.54%</div>
+                                <div>0.52%</div>
                             </small>
                         </div>
                     </section>
@@ -144,12 +144,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 139 commits)</small>
+                    <small class="h-details">(computed from last 145 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 49.5 characters per line of code written</li>
+                        <li>Has approximately 48.5 characters per line of code written</li>
                         <li>Mostly pushes code around 03:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
