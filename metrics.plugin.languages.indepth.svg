@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 146mb of code in 12672 edited files across 361 commits</small>
+                <small>estimation from 146mb of code in 12684 edited files across 362 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="637.7839185435221" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="637.7839185435221" y="0" width="247.57262957100644" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="885.3565481145286" y="0" width="25.636064900961046" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="910.9926130154896" y="0" width="4.750228946955179" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="915.7428419624448" y="0" width="2.041748251456714" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="917.7845902139015" y="0" width="1.4547083398763292" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="919.2392985537779" y="0" width="0.6739772197200571" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.9132757734978" y="0" width="0.08672422650207501" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="637.778526902661" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="637.778526902661" y="0" width="247.5783140775942" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="885.3568409802552" y="0" width="25.635848181079876" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="910.9926891613352" y="0" width="4.7501887898929755" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="915.7428779512281" y="0" width="2.041730991107275" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="917.7846089423355" y="0" width="1.454696042192587" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="919.2393049845281" y="0" width="0.6739715221114915" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.9132765066396" y="0" width="0.08672349336053653" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -170,13 +170,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 93 commits)</small>
+                    <small class="h-details">(computed from last 85 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 46.6 characters per line of code written</li>
-                        <li>Mostly pushes code around 03:00</li>
+                        <li>Has approximately 47.1 characters per line of code written</li>
+                        <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
