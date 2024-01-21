@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 142mb of code in 12873 edited files across 275 commits</small>
+                <small>estimation from 142mb of code in 12882 edited files across 277 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="705.6302159253521" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="705.6302159253521" y="0" width="201.244811141103" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="906.8750270664551" y="0" width="4.801047217240694" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="911.6760742836958" y="0" width="4.349542462791086" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="916.0256167464869" y="0" width="1.5615840565295058" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="917.5872008030163" y="0" width="1.4702709080026115" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="919.0574717110189" y="0" width="0.6811874735626571" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.7386591845817" y="0" width="0.26134081541836374" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="704.9271687744605" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="704.9271687744605" y="0" width="201.5578580142177" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="906.4850267886782" y="0" width="4.796263744975478" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="911.2812905336536" y="0" width="4.345208842479579" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="915.6264993761332" y="0" width="1.9631053936674632" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="917.5896047698006" y="0" width="1.468806019241358" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="919.0584107890421" y="0" width="0.6805087796778109" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.7389195687198" y="0" width="0.26108043128012126" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,7 +42,7 @@
                             </div>
                             <small>
                                 <div>6.55 MB</div>
-                                <div>76.7%</div>
+                                <div>76.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,8 +53,8 @@
                                 Solidity
                             </div>
                             <small>
-                                <div>14.5 kB</div>
-                                <div>0.17%</div>
+                                <div>18.2 kB</div>
+                                <div>0.21%</div>
                             </small>
                         </div>
                     </section>
@@ -68,7 +68,7 @@
                             </div>
                             <small>
                                 <div>1.87 MB</div>
-                                <div>21.87%</div>
+                                <div>21.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,13 +166,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 6 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.1 characters per line of code written</li>
-                        <li>Mostly pushes code around 04:00</li>
+                        <li>Has approximately 38.3 characters per line of code written</li>
+                        <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
