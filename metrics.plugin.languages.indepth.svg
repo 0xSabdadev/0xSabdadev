@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 143mb of code in 12943 edited files across 279 commits</small>
+                <small>estimation from 198mb of code in 13181 edited files across 296 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="694.1884140525875" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="694.1884140525875" y="0" width="210.96210340893953" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="905.150517461527" y="0" width="4.723198182715694" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="909.8737156442427" y="0" width="4.279014582928163" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="914.1527302271708" y="0" width="3.473594141911085" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="917.6263243690819" y="0" width="1.4464304487238169" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="919.0727548178057" y="0" width="0.6701420110317025" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.7428968288374" y="0" width="0.25710317116249476" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="669.8559989617863" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="669.8559989617863" y="0" width="203.74500031888627" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="873.6009992806727" y="0" width="34.741674346233154" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="908.3426736269058" y="0" width="4.5576425260503415" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="912.9003161529562" y="0" width="4.129028272434205" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="917.0293444253904" y="0" width="2.075911820280589" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="919.105256245671" y="0" width="0.646652460857544" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.7519087065285" y="0" width="0.248091293471587" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,19 +42,19 @@
                             </div>
                             <small>
                                 <div>6.55 MB</div>
-                                <div>75.46%</div>
+                                <div>72.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#AA6746" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Solidity
+                                Python
                             </div>
                             <small>
-                                <div>32.7 kB</div>
-                                <div>0.38%</div>
+                                <div>40.3 kB</div>
+                                <div>0.45%</div>
                             </small>
                         </div>
                     </section>
@@ -68,7 +68,7 @@
                             </div>
                             <small>
                                 <div>1.99 MB</div>
-                                <div>22.93%</div>
+                                <div>22.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -79,8 +79,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>13.6 kB</div>
-                                <div>0.16%</div>
+                                <div>20.3 kB</div>
+                                <div>0.23%</div>
                             </small>
                         </div>
                     </section>
@@ -88,13 +88,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#AA6746" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                Solidity
                             </div>
                             <small>
-                                <div>44.5 kB</div>
-                                <div>0.51%</div>
+                                <div>339 kB</div>
+                                <div>3.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,13 +114,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Java
                             </div>
                             <small>
-                                <div>40.3 kB</div>
-                                <div>0.47%</div>
+                                <div>44.5 kB</div>
+                                <div>0.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,12 +166,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 7 commits)</small>
+                    <small class="h-details">(computed from last 8 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.7 characters per line of code written</li>
+                        <li>Has approximately 34.0 characters per line of code written</li>
                         <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
