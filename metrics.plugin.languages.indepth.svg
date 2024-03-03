@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 210mb of code in 13193 edited files across 298 commits</small>
+                <small>estimation from 211mb of code in 13215 edited files across 300 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="667.8651094400815" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="667.8651094400815" y="0" width="203.13944660754638" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="871.0045560476278" y="0" width="37.37276450184521" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="908.3773205494731" y="0" width="4.544096685208648" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="912.9214172346817" y="0" width="4.1167563227388175" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="917.0381735574206" y="0" width="2.069741970197309" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="919.1079155276179" y="0" width="0.6447305349354037" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.7526460625533" y="0" width="0.24735393744676332" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="667.4249606104647" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="667.4249606104647" y="0" width="203.59701516331046" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="871.0219757737751" y="0" width="37.36300456909752" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="908.3849803428727" y="0" width="4.541101950479449" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="912.9260822933521" y="0" width="4.11404322176729" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="917.0401255151194" y="0" width="2.0683779305238565" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="919.1085034456432" y="0" width="0.6443056326814022" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.7528090783246" y="0" width="0.2471909216752708" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,7 +42,7 @@
                             </div>
                             <small>
                                 <div>6.55 MB</div>
-                                <div>72.59%</div>
+                                <div>72.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -67,8 +67,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.99 MB</div>
-                                <div>22.08%</div>
+                                <div>2 MB</div>
+                                <div>22.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -171,7 +171,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 28.5 characters per line of code written</li>
+                        <li>Has approximately 33.7 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
